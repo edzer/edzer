@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 📉️ Professor of Geoinformatics at the [Institute for Geoinformatics](https://ifgi.uni-muenster.de/), [University of Muenster](https://www.uni-muenster.de/) in Muenster, Germany
 - ⚡ More [about me and my work](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
@@ -7,6 +6,8 @@
 ![edzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=edzer&count_private=true)
 
 <!--
+### Hi there 👋
+
 **edzer/edzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
