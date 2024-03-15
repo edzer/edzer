@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 📉️ Professor of Geoinformatics at the [Institute for Geoinformatics](https://ifgi.uni-muenster.de/), [University of Muenster](https://www.uni-muenster.de/) in Muenster, Germany
+- ⚡ More [about me and my work](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
+- 🐘️ <a rel="me" href="https://mastodon.social/@edzer">Join me on Mastodon</a>
+
+![edzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=edzer&count_private=true)
+
 <!--
 **edzer/edzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
