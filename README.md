@@ -1,5 +1,5 @@
 
-- 📉️ Professor of Geoinformatics at the [Institute for Geoinformatics](https://ifgi.uni-muenster.de/), [University of Muenster](https://www.uni-muenster.de/) in Muenster, Germany
+- 📉️ Professor of Geoinformatics at the [Institute for Geoinformatics](https://ifgi.uni-muenster.de/en), [University of Münster](https://www.uni-muenster.de/en) in Münster, Germany
 - ⚡ More [about me and my work](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/119/Edzer_Pebesma)
 - 🐘️ <a rel="me" href="https://mastodon.social/@edzer">Join me on Mastodon</a>
 
